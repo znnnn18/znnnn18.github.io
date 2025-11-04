@@ -43,13 +43,19 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.11*, Comprehensive Excellence Scholarship, Tsinghua University
+- *2023.01*, Asia-Pacific Youth Leadership Award (APEA)
+- *2022.06*, Outstanding Graduate and Excellent Thesis Award, School of Journalism and Communication, Tsinghua University
+- *2022.06*, Contribution Award, Xinya College, Tsinghua University
+- *2021.11*, Toyota Scholarship for Comprehensive Excellence, Tsinghua University
+- *2020.10*, Academic Excellence Scholarship, Tsinghua University
+- *2019.10*, Outstanding Social Work Scholarship, Tsinghua University
+- *2019.10*, Social Practice Excellence Scholarship, Tsinghua University
+- *2019.10*, Volunteer Service Excellence Scholarship, Tsinghua University
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
+-*2022.09 - 2026.06 (Expected)*, \textbf{Tsinghua University}, Master's in Information Art and Design (Interdisciplinary)
+- *2018.09 - 2022.06*, \textbf{Tsinghua University}, Dual Bachelor's Degrees: Journalism & English (Xinya College)
 # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
