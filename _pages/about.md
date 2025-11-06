@@ -32,11 +32,14 @@ My research interest includes neural machine translation and computer vision. I 
 
 <u><strong>N. Zhang</strong></u>, Y. Chen, D. Ouyang, S. Niu, J. Cai, C. Yu
 
-- paper content
+- Led the full research from user study design to data collection, qualitative analysis, and paper preparation.
+- Conducted thematic analysis on 312 Douyin parenting videos and 19 in-depth parent interviews to identify how generative AI reshapes parenting practices, associated risks, and governance strategies.
+- Proposed a Role–Risk–Strategy Framework conceptualizing parents’ interaction patterns with GenAI tools.
+- First-authored a full paper under review at CHI 2026.
 </div>
 </div>
 
-- Parents' Perceptions of GenAI's Roles, Risks, and Strategies in Parenting, <u><strong>N. Zhang</strong></u>, Y. Chen, D. Ouyang, **Under Review at CHI 2026**
+
 
 <!-- AI-Supported Quality Checking: Under Review -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/qualitycheck.jpg' alt="AI Quality Checking" width="100%"></div></div>
@@ -46,11 +49,13 @@ My research interest includes neural machine translation and computer vision. I 
 
 Y. Zeng, H. C. Iu, N. Janaka, <u><strong>N. Zhang</strong></u>, F. Nah, J. Li
 
-- paper content
+- Designed all scientific figures and visual materials for the CHI paper, translating complex system workflows and AI feedback mechanisms into clear, publication-ready diagrams.
+- Collaborated closely with researchers to visualize the AdaptiveCue system’s design and workflow, ensuring conceptual accuracy and visual clarity.
+- Co-authored a full paper under review at CHI 2026.
 </div>
 </div>
 
-- Exploring AI-Supported Quality Checking with Adaptive Feedback in Teleconferenced Decision-Making, Y. Zeng, H. C. Iu, N. Janaka, <u><strong>N. Zhang</strong></u>, **Under Review at CHI 2026**
+
 
 <!-- AI-generated Image Tools: CSCW 2024 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/500x300.png' alt="AI Image Tools" width="100%"></div></div>
@@ -60,11 +65,13 @@ Y. Zeng, H. C. Iu, N. Janaka, <u><strong>N. Zhang</strong></u>, F. Nah, J. Li
 
 Y. Tang, <u><strong>N. Zhang</strong></u>, M. Ciancia, Z. Wang
 
-- paper content
+- Conducted data collection, statistical analysis, and visualization for a survey study (N=380) comparing professional and non-professional users of AI image generation tools.
+- Analyzed differences in tool usage, satisfaction, and creative applications, revealing how AI technologies democratize art and design while raising concerns about quality, cost, and copyright.
+- Co-authored a poster accepted at CSCW 2024.
 </div>
 </div>
 
-- Exploring the Impact of AI-generated Image Tools on Professional and Non-professional Users, Y. Tang, <u><strong>N. Zhang</strong></u>, M. Ciancia, **CSCW 2024**
+
 
 <!-- MindShift: CHI 2024 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/500x300.png' alt="MindShift" width="100%"></div></div>
@@ -74,11 +81,13 @@ Y. Tang, <u><strong>N. Zhang</strong></u>, M. Ciancia, Z. Wang
 
 R. Wu, C. Yu, X. Pan, Y. Liu, <u><strong>N. Zhang</strong></u>, Y. Fu, Y. Wang, Z. Zheng, L. Chen, Q. Jiang, X. Xu, Y. Shi
 
-- paper content
+- The project investigated LLM-powered smartphone use interventions that adapt persuasive strategies to users’ psychological states (boredom, stress, inertia), demonstrating that context-aware persuasion improved intervention acceptance and reduced smartphone use duration.
+- Conducted user experiments, including Wizard-of-Oz testing, interviews, and a 5-week field deployment; assisted in study design, participant recruitment, and qualitative data analysis.
+- Co-authored a full paper accepted at CHI 2024.
 </div>
 </div>
 
-- MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention, R. Wu, C. Yu, X. Pan, <u><strong>N. Zhang</strong></u>, **CHI 2024**
+
 
 <!-- ORBO: HRI 2024 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HRI 2024</div><img src='images/500x300.png' alt="ORBO" width="100%"></div></div>
@@ -92,7 +101,7 @@ R. Wu, C. Yu, X. Pan, Y. Liu, <u><strong>N. Zhang</strong></u>, Y. Fu, Y. Wang, 
 </div>
 </div>
 
-- ORBO: The Emotionally Intelligent Anthropomorphic Robot Enhancing Smartphone Interaction, <u><strong>N. Zhang</strong></u>, Z. Chi, Z. Xu, **HRI 2024**
+
 
 <!-- Eye See You: HRI 2024 -->
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">HRI 2024</div><img src='images/500x300.png' alt="Eye See You" width="100%"></div></div>
@@ -106,7 +115,7 @@ Z. Xu, Z. Chi, <u><strong>N. Zhang</strong></u>, V. Campo, Q. Chen
 </div>
 </div>
 
-- Eye See You: The Emotionally Intelligent Anthropomorphic Robot Enhancing Smartphone Interaction, Z. Xu, Z. Chi, <u><strong>N. Zhang</strong></u>, **HRI 2024**
+
 
 
 
