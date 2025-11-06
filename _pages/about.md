@@ -25,7 +25,7 @@ My research interest includes neural machine translation and computer vision. I 
 # 📝 Publications 
 
 <!-- Parents' Perceptions of GenAI: Under Review -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="GenAI Parenting" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/AIparenting.png' alt="GenAI Parenting" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Parents' Perceptions of GenAI's Roles, Risks, and Strategies in Parenting in the Family Context](#)
@@ -39,7 +39,7 @@ My research interest includes neural machine translation and computer vision. I 
 - Parents' Perceptions of GenAI's Roles, Risks, and Strategies in Parenting, <u><strong>N. Zhang</strong></u>, Y. Chen, D. Ouyang, **Under Review at CHI 2026**
 
 <!-- AI-Supported Quality Checking: Under Review -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="AI Quality Checking" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/qualitycheck.jpg' alt="AI Quality Checking" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring AI-Supported Quality Checking with Adaptive Feedback in Teleconferenced Decision-Making](#)
