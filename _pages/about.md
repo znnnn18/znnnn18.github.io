@@ -22,10 +22,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet 
 My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
 
 
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-
 # 📝 Publications 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
@@ -43,14 +39,65 @@ My research interest includes neural machine translation and computer vision. I 
 - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 
-- **Role–Risk–Strategy Framework of GenAI in Parenting**
-**Advisor**: Dr. Jie Cai, Tsinghua University; Prof. Shuo Niu, Clark University; Prof. Chun Yu, Tsinghua University  
-**Timeline**: 2025.02 - 2025.09  
-**Status**: First-authored full paper under review at CHI 2026
-<strong><span class='show_paper_citations' data='YOUR_PAPER_ID_HERE'></span></strong>
-- Led the full research from user study design to data collection, qualitative analysis, and paper preparation.
-- Conducted thematic analysis on 312 Douyin parenting videos and 19 in-depth parent interviews to identify how generative AI reshapes parenting practices, associated risks, and governance strategies.
-- Proposed a Role–Risk–Strategy Framework conceptualizing parents' interaction patterns with GenAI tools.
+<!-- MindShift: CHI 2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/mindshift.jpg' alt="MindShift" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention](https://doi.org/10.1145/3613904.3642790)
+
+**R. Wu**, C. Yu, X. Pan, Y. Liu, **N. Zhang**, Y. Fu, Y. Wang, Z. Zheng, L. Chen, Q. Jiang, X. Xu, Y. Shi
+
+[**Project**](#) <strong><span class='show_paper_citations' data='chi2024-mindshift'></span></strong>
+- paper content
+</div>
+</div>
+
+- [Project Link](https://github.com), R. Wu, C. Yu, X. Pan, **CHI 2024**
+
+<!-- ORBO: HRI 2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HRI 2024</div><img src='images/orbo.jpg' alt="ORBO" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ORBO: The Emotionally Intelligent Anthropomorphic Robot Enhancing Smartphone Interaction](https://doi.org/10.1145/3610978.3640695)
+
+**N. Zhang**, Z. Chi, Z. Xu, Q. Chen, V. Campo, Y. Guo, H. Mi
+
+[**Project**](#) <strong><span class='show_paper_citations' data='hri2024-orbo'></span></strong>
+- paper content
+</div>
+</div>
+
+- [Project Link](https://github.com), **N. Zhang**, Z. Chi, Z. Xu, **HRI 2024**
+
+<!-- Eye See You: HRI 2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HRI 2024</div><img src='images/eye-see-you.jpg' alt="Eye See You" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Eye See You: The Emotionally Intelligent Anthropomorphic Robot Enhancing Smartphone Interaction](https://doi.org/10.1145/3610978.3641267)
+
+**Z. Xu**, Z. Chi, **N. Zhang**, V. Campo, Q. Chen
+
+[**Project**](#) <strong><span class='show_paper_citations' data='hri2024-eyesee'></span></strong>
+- paper content
+</div>
+</div>
+
+- [Project Link](https://github.com), **Z. Xu**, Z. Chi, **N. Zhang**, **HRI 2024**
+
+<!-- AI-generated Image Tools: CSCW 2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/ai-image-tools.jpg' alt="AI Image Tools" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring the Impact of AI-generated Image Tools on Professional and Non-professional Users in the Art and Design Fields](https://doi.org/10.1145/3678884.3681890)
+
+**Y. Tang**, **N. Zhang**, M. Ciancia, Z. Wang
+
+[**Project**](#) <strong><span class='show_paper_citations' data='cscw2024-aiimages'></span></strong>
+- paper content
+</div>
+</div>
+
+- [Project Link](https://github.com), **Y. Tang**, **N. Zhang**, M. Ciancia, **CSCW 2024**
 
 # 🎖 Honors and Awards
 - *2024.11*, Comprehensive Excellence Scholarship, Tsinghua University
