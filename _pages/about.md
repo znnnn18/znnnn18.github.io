@@ -30,7 +30,7 @@ My research interest includes neural machine translation and computer vision. I 
 
 [Parents' Perceptions of GenAI's Roles, Risks, and Strategies in Parenting in the Family Context](#)
 
-N. Zhang, Y. Chen, D. Ouyang, S. Niu, J. Cai, C. Yu
+<u><strong>N. Zhang</strong></u>, Y. Chen, D. Ouyang, S. Niu, J. Cai, C. Yu
 
 - paper content
 </div>
