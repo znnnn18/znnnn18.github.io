@@ -24,19 +24,89 @@ My research interest includes neural machine translation and computer vision. I 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- Parents' Perceptions of GenAI: Under Review -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="GenAI Parenting" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[Parents' Perceptions of GenAI's Roles, Risks, and Strategies in Parenting in the Family Context](#)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+N. Zhang, Y. Chen, D. Ouyang, S. Niu, J. Cai, C. Yu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- paper content
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+- Parents' Perceptions of GenAI's Roles, Risks, and Strategies in Parenting, <u><strong>N. Zhang</strong></u>, Y. Chen, D. Ouyang, **Under Review at CHI 2026**
+
+<!-- AI-Supported Quality Checking: Under Review -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/500x300.png' alt="AI Quality Checking" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring AI-Supported Quality Checking with Adaptive Feedback in Teleconferenced Decision-Making](#)
+
+Y. Zeng, H. C. Iu, N. Janaka, <u><strong>N. Zhang</strong></u>, F. Nah, J. Li
+
+- paper content
+</div>
+</div>
+
+- Exploring AI-Supported Quality Checking with Adaptive Feedback in Teleconferenced Decision-Making, Y. Zeng, H. C. Iu, N. Janaka, <u><strong>N. Zhang</strong></u>, **Under Review at CHI 2026**
+
+<!-- AI-generated Image Tools: CSCW 2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/500x300.png' alt="AI Image Tools" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Exploring the Impact of AI-generated Image Tools on Professional and Non-professional Users in the Art and Design Fields](https://doi.org/10.1145/3678884.3681890)
+
+Y. Tang, <u><strong>N. Zhang</strong></u>, M. Ciancia, Z. Wang
+
+- paper content
+</div>
+</div>
+
+- Exploring the Impact of AI-generated Image Tools on Professional and Non-professional Users, Y. Tang, <u><strong>N. Zhang</strong></u>, M. Ciancia, **CSCW 2024**
+
+<!-- MindShift: CHI 2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/500x300.png' alt="MindShift" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention](https://doi.org/10.1145/3613904.3642790)
+
+R. Wu, C. Yu, X. Pan, Y. Liu, <u><strong>N. Zhang</strong></u>, Y. Fu, Y. Wang, Z. Zheng, L. Chen, Q. Jiang, X. Xu, Y. Shi
+
+- paper content
+</div>
+</div>
+
+- MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention, R. Wu, C. Yu, X. Pan, <u><strong>N. Zhang</strong></u>, **CHI 2024**
+
+<!-- ORBO: HRI 2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HRI 2024</div><img src='images/500x300.png' alt="ORBO" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ORBO: The Emotionally Intelligent Anthropomorphic Robot Enhancing Smartphone Interaction](https://doi.org/10.1145/3610978.3640695)
+
+<u><strong>N. Zhang</strong></u>, Z. Chi, Z. Xu, Q. Chen, V. Campo, Y. Guo, H. Mi
+
+- paper content
+</div>
+</div>
+
+- ORBO: The Emotionally Intelligent Anthropomorphic Robot Enhancing Smartphone Interaction, <u><strong>N. Zhang</strong></u>, Z. Chi, Z. Xu, **HRI 2024**
+
+<!-- Eye See You: HRI 2024 -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HRI 2024</div><img src='images/500x300.png' alt="Eye See You" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Eye See You: The Emotionally Intelligent Anthropomorphic Robot Enhancing Smartphone Interaction](https://doi.org/10.1145/3610978.3641267)
+
+Z. Xu, Z. Chi, <u><strong>N. Zhang</strong></u>, V. Campo, Q. Chen
+
+- paper content
+</div>
+</div>
+
+- Eye See You: The Emotionally Intelligent Anthropomorphic Robot Enhancing Smartphone Interaction, Z. Xu, Z. Chi, <u><strong>N. Zhang</strong></u>, **HRI 2024**
 
 
 
