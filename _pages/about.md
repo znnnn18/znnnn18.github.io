@@ -58,7 +58,7 @@ Y. Zeng, H. C. Iu, N. Janaka, <u><strong>N. Zhang</strong></u>, F. Nah, J. Li
 
 
 <!-- AI-generated Image Tools: CSCW 2024 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/500x300.png' alt="AI Image Tools" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CSCW 2024</div><img src='images/cscw.jpg' alt="AI Image Tools" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Exploring the Impact of AI-generated Image Tools on Professional and Non-professional Users in the Art and Design Fields](https://doi.org/10.1145/3678884.3681890)
@@ -74,7 +74,7 @@ Y. Tang, <u><strong>N. Zhang</strong></u>, M. Ciancia, Z. Wang
 
 
 <!-- MindShift: CHI 2024 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/500x300.png' alt="MindShift" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CHI 2024</div><img src='images/mindshift.png' alt="MindShift" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [MindShift: Leveraging Large Language Models for Mental-States-Based Problematic Smartphone Use Intervention](https://doi.org/10.1145/3613904.3642790)
@@ -90,7 +90,7 @@ R. Wu, C. Yu, X. Pan, Y. Liu, <u><strong>N. Zhang</strong></u>, Y. Fu, Y. Wang, 
 
 
 <!-- ORBO: HRI 2024 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HRI 2024</div><img src='images/500x300.png' alt="ORBO" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HRI 2024</div><img src='images/orbo.png' alt="ORBO" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Emotionally Intelligent Robot for Smartphone Interaction**
@@ -111,16 +111,6 @@ Z. Xu, Z. Chi, <u><strong>N. Zhang</strong></u>, V. Campo, Q. Chen
 </div>
 
 
-
-<!-- Eye See You: HRI 2024 -->
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">HRI 2024</div><img src='images/500x300.png' alt="Eye See You" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Eye See You: The Emotionally Intelligent Anthropomorphic Robot Enhancing Smartphone Interaction](https://doi.org/10.1145/3610978.3641267)
-
-Z. Xu, Z. Chi, <u><strong>N. Zhang</strong></u>, V. Campo, Q. Chen
-
-- paper content
 </div>
 </div>
 
